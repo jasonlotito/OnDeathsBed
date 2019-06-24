@@ -1,0 +1,84 @@
+gm48
+
+That's all she wrote!
+
+Thanks for joining me!
+
+Bye screenshot watchers!
+
+I need to take a break screenshot viewers.
+
+Will be back shortly. Uh... 6 hours to go? Almost done..
+
+Credits
+
+
+What am I going to call this game....
+
+Deathication? (Death Vacation)
+
+On Death's Bed <-- Get it? It's the Grim Reaper's bed.  He 
+sleeps on it.  He's Death.  It's his bed.. he want to sleep.
+
+I am a brilliant buffoon <------ That right there is true
+
+Myth and Legend Audio Assets on the GameMaker Market Place
+by Black Light Sound
+https://marketplace.yoyogames.com/publishers/3781/black-light-sound
+
+I think I need to get to bed now....
+
+
+
+TODO
+
+
+Audio for:
+
+ * Portal creation
+ * Portal destruction
+ * Attack
+ * Walk
+ * Teleport casting
+ * Teleporting
+ * Background music
+
+Topic: No Death State
+
+A specific being.  Grim Reaper, and he's missing.  What happens to the world?
+
+
+Bodies pile up, or do they?  No, people don't die.  People that should be dead?
+
+What if you are the grim reaper?  Trying to get back from vacation...
+
+You have no death state, as you are death himself.
+
+And there is no death on this world.  And you have to bring balance to life and death.
+
+
+
+
+
+You have different states you can enter, which offer a boon and a bane
+No death, no move?
+
+
+Why would people choose this... =(
+
+I need to come up with an idea.  I don't know.
+
+
+Maybe I need some dinner.  Will be in about 5 minutes.
+
+Really, my wife made a good dinner... Death State...  Mode... a state in which you cannot
+die... but makes it so you can't do other things?
+
+Death isn't just you being dead
+
+Death is a mythical being.
+The grim reaper.
+
+No Grim Reaper State
+
+the Grim Reaper is no longer active

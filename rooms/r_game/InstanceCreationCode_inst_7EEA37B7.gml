@@ -1,0 +1,1 @@
+object_to_spawn = o_imp
